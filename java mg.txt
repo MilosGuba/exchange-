@@ -1,0 +1,56 @@
+public class Main {
+    public static void main(String[] args) {
+         <properties>
+                <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+                <maven.compiler.source>1.7</maven.compiler.source>
+                <maven.compiler.target>1.7</maven.compiler.target>
+                <maven.compiler.source>1.9</maven.compiler.source>
+                maven.compiler.target>1.9</maven.compiler.target>
+                </properties>
+                <dependencies>
+
+                import java,util.hashset;
+         import java.util.map;
+         set add ("czk");
+         set.add("btc");
+         Map map = new Apirequest().getexchangerates(set);
+        System.out.println(map.tostring);
+        calcexchangerates calcexchangerates = new calcexchangerates();
+        calcexchangerates.calculate(85);
+
+        private static String key = "kfvmimvkf";
+        static final String key = "dfdafd";
+
+        import java.util.Collections;
+        import java.util.HastSet;
+        import java.util.Map;
+        import java.util.Set;
+
+        public class CalcExchangeRates (
+                private static final String[] rates=new String[]("usd","czk","huf","btc","pln);
+           public void calculate (double eur)
+        if(eur<0) {
+            System.out.println("input param cannot be a negative value");
+            return;
+          Set<String> set = new HashSet<>();
+          Collections.addAll(set,rates);
+          apirequest apirequest=new apirequest();
+          map map = apirequest.getexchangerates(set);
+          for (string temp:rates)(
+                  if(map.containkey(temp))
+                      double value= (double)map.get(temp);
+                  double result = eur*value;
+                  print("eur",temp, eur, result, value);
+               private void print(String from, String to, double eur, double result, double rate);
+            System.out.println(eur +);
+                  )
+
+            int[] currency {BTN,CZK,EUR};
+            System.out.println(BTN);
+            System.out.println(CZK);
+            System.out.println(EUR);
+            for(int i = 0; i < currency; i++) {
+                System.out.println(currency[i]);
+                public int currency (int a, int b);
+                int currency = a + b;
+                return sum;intln("Na oznaèenie mín sa používa zástava, ktorú hráè umiestni kliknutím pravého tlaèidla myši");
